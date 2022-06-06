@@ -1,5 +1,5 @@
 {
-  "name": "stori-getstarted",
+  "name": "stl-getstarted",
   "version": "0.0.1",
   "description": "show the guided steps of your app in react",
   "main": "dist/cjs/index.js",
